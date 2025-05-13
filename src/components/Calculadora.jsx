@@ -3,13 +3,13 @@ import '../components/calculadora.css'
 
 const Calculadora = () => {
   return (
-    <div className="comeco">
+    <div className="titulo">
       <h1>Calculadora Simples</h1>
       <input type="number" placeholder="Digite o primeiro número" />
       <br />
       <input type="number" placeholder="Digite o segundo número" />
       <br />
-      <div className="botao">
+      <div className="bution">
         <button>Somar</button>
         <button>Subtrair</button>
         <button>Multiplicar</button>

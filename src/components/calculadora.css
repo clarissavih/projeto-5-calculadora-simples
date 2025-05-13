@@ -9,7 +9,7 @@ body {
     font-family: Arial, sans-serif;
   }
   
-  .comeco{
+  .titulo{
     width: 450px;
     height: 380px;
     margin: 50px auto;
@@ -24,12 +24,12 @@ body {
   
   }
   
-  .comeco h1 {
+  .titulo h1 {
     font-weight: bold;
     margin-bottom: 20px;
   }
   
-  .comeco input {
+  .titulo input {
     display: block;
     width: 100%;
     padding: 10px;
@@ -39,11 +39,11 @@ body {
     font-size: 16px;
   }
   
-  .botao {
+  .bution {
     margin: 20px;
   }
   
-  .botao button {
+  .bution button {
     background-color: #4CAF50;
     color: white;
     border: none;
@@ -54,7 +54,7 @@ body {
     cursor: pointer;
   }
   
-  .botao button:hover {
+  .bution button:hover {
     background-color: #45a049;
   }
   
